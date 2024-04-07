@@ -1,0 +1,16 @@
+{
+    "name": "hotspotbilling/MimoAssist",
+    "type": "template",
+    "description": "MimoAssist a Hotspot Billing Software.",
+    "keywords": ["template","PHPMixBill","MimoAssist","Mikrotik","Hotspot","Billing"],
+    "homepage": "https://github.com/MimoAssistBilling",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mimoassist",
+            "email": "me@mimoassist.homes",
+            "homepage": "https://mimoassist.homes",
+            "role": "Developer"
+        }
+    ]
+}
